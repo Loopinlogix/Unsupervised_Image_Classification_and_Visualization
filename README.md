@@ -8,7 +8,7 @@ https://img.shields.io/badge/scikit--learn-1.4-green?style=flat-square
 https://img.shields.io/badge/Matplotlib-3.8-purple?style=flat-square
 https://img.shields.io/badge/Project-100%25-Done-success?style=flat-square
 
-Welcome to the Olivetti Faces Adventure, where we take 400 grayscale faces from the 90s and convince a machine to group them into clusters — without telling it what a face is.
+Welcome to the Olivetti Faces Adventure, where we take 400 grayscale faces from the 90s and convince a machine to group them into clusters without telling it what a face is.
 It’s like giving a toddler a box of photos and saying:
 
 “Sort these by vibes.”
